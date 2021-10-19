@@ -1,0 +1,24 @@
+myList=[2,3,5,6,7,3,2]
+list(enumerate(myList))
+[(0, 2), (1, 3), (2, 5), (3, 6), (4, 7), (5, 3), (6, 2)]
+
+-''字符串用双引号和单引号
+## 字符串
+-''字符串用双引号和单引号
+
+-"  fgfd 'fdgfdgf"当字符串有单引号必须用双引号
+print('abc')
+print("abc")
+abc
+abc
+print("abd'asd")
+abd'asd
+str='''草你
+妈的
+'''
+str
+'草你\n妈的\n'
+str1="abc"
+str1="defghojk"
+str1[1:4]
+'efg'
